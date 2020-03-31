@@ -1,0 +1,12 @@
+
+ol, ul {
+    list-style: none;
+}
+
+.listaPasos {
+    list-style: decimal;
+}
+
+.titulo{
+    background: cornsilk;
+}
